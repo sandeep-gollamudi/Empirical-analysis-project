@@ -1,0 +1,11 @@
+This repository is created for empirical analysis project 
+
+The project we are working on is Covid 19 and our group number is 22.
+
+Details of the team members are
+
+Dinesh Tadepalli, 11512545 – dineshtadepalli@my.unt.edu
+Sai Sandeep Gollamudi, 11512548 – saisandeepgollamudi@my.unt.edu
+Nishanth Bharadwaj Boppa, 11532558 – nishanthbharadwajboppa@my.unt.edu
+Sunny Poosala, 11520296 – sunnypoosala@my.unt.edu
+Naveen Paritala, 11535603 – naveenparitala@my.unt.edu
